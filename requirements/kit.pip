@@ -12,7 +12,7 @@ bracex==2.4
     # via cibuildwheel
 build==1.2.1
     # via -r requirements/kit.in
-certifi==2024.2.2
+certifi==2024.6.2
     # via cibuildwheel
 cibuildwheel==2.18.1
     # via -r requirements/kit.in
@@ -37,11 +37,11 @@ tomli==2.0.1
     # via
     #   build
     #   cibuildwheel
-typing-extensions==4.12.0
+typing-extensions==4.12.1
     # via cibuildwheel
 wheel==0.43.0
     # via -r requirements/kit.in
-zipp==3.19.0
+zipp==3.19.2
     # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
